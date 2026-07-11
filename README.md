@@ -20,8 +20,6 @@ C++, JavaScript, Python, SQL, Node.js, Express.js, React.js, MongoDB, MySQL, Sup
 
 **[Song Suggester](https://github.com/Sanchit1612/Song-Suggester)** — mood-based music recommender that maps how you're feeling to real songs via the iTunes API.
 
-*(repo links guessed from project names — check they match before relying on them)*
-
 ### LeetCode
 
 300+ problems solved in C++, mainly arrays, strings, linked lists, and trees. Currently working through graphs and DP.
